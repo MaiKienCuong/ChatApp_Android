@@ -1,6 +1,6 @@
 # Chat app android
 
-![alt text](https://github.com/MaiKienCuong/ChatApp_Android/blob/kcuong/images/1.png?raw=true)
+<img src="https://github.com/MaiKienCuong/ChatApp_Android/blob/kcuong/images/1.png?raw=true" width=50% height=50%>
 
 ![alt text](https://github.com/MaiKienCuong/ChatApp_Android/blob/kcuong/images/2.png?raw=true)
 
